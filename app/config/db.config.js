@@ -1,3 +1,3 @@
 module.exports = {
-  url: "mongodb+srv://Mitchell:Redbull8@atlascluster.miz3xai.mongodb.net", //change
+  url: "mongodb+srv://Mitchell:Redbull8@atlascluster.miz3xai.mongodb.net/tutorials" , //change
 };
