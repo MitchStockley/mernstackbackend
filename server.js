@@ -4,7 +4,7 @@ const cors = require("cors");
 const app = express();
 
 var corsOptions = {
-  origin: "https://dorettetutorial.netlify.app" //change
+  origin: "https://leafy-tiramisu-647fa9.netlify.app" //change
 };
 
 app.use(cors(corsOptions));
